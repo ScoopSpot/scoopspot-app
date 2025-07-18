@@ -1,0 +1,14 @@
+
+body {
+  background: #fff5f8;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #333;
+}
+.logo {
+  width: 150px;
+  margin-top: 50px;
+}
+.container {
+  padding: 20px;
+}
